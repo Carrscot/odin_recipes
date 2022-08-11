@@ -24,6 +24,7 @@ button {
 }
 
 .img.home {
+    justify-content: center;
     height: auto;
     width: 500px;
 }
